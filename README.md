@@ -12,6 +12,7 @@ predominan, creando un espacio sereno que invita a la contemplación. La disposi
 con suavidad a través del contenido. Cada detalle está pensado para ofrecer una experiencia accesible, libre de distracciones. La tipografía, 
 clara y precisa, complementa este enfoque minimalista, generando una atmósfera de claridad y facilidad en la interacción.
 
+ Haciendo click [aquí](https://lucasnicolasramirez.github.io/AluraGeek/) puedes visualizar e interactuar con la web.
 
 ## Diseño de web completo:
 ![image](https://github.com/user-attachments/assets/22d6b157-b0e8-4719-9817-d4badaf4188e)
