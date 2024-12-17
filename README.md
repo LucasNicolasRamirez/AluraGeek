@@ -5,6 +5,17 @@
 AluraGeek es una aplicación web desarrollada como parte del Challenge Alura LATAM. Permite listar productos tecnológicos, añadir 
 nuevos productos con detalles (nombre, precio, imagen) y eliminar productos existentes, utilizando un servidor JSON simulado con MockAPI.
 
+
+# ✨ AluraGeek: Diseño minimalista y funcional ✨
+El diseño de AluraGeek se caracteriza por su armonía visual, donde lo sencillo y lo funcional se entrelazan con elegancia. Los colores neutros 
+predominan, creando un espacio sereno que invita a la contemplación. La disposición de los elementos es ordenada y fluida, guiando al usuario 
+con suavidad a través del contenido. Cada detalle está pensado para ofrecer una experiencia accesible, libre de distracciones. La tipografía, 
+clara y precisa, complementa este enfoque minimalista, generando una atmósfera de claridad y facilidad en la interacción.
+
+
+## Diseño de web completo:
+![image](https://github.com/user-attachments/assets/22d6b157-b0e8-4719-9817-d4badaf4188e)
+
 Este proyecto ayuda a comprender el uso de APIs, JavaScript modular y manipulación del DOM para crear una experiencia dinámica.
 
 ## 🚀 Características Principales
@@ -43,15 +54,6 @@ Amplía la imagen al hacer clic sobre ella.
 
 
 
-# ✨ AluraGeek: Diseño minimalista y funcional ✨
-El diseño de AluraGeek se caracteriza por su armonía visual, donde lo sencillo y lo funcional se entrelazan con elegancia. Los colores neutros 
-predominan, creando un espacio sereno que invita a la contemplación. La disposición de los elementos es ordenada y fluida, guiando al usuario 
-con suavidad a través del contenido. Cada detalle está pensado para ofrecer una experiencia accesible, libre de distracciones. La tipografía, 
-clara y precisa, complementa este enfoque minimalista, generando una atmósfera de claridad y facilidad en la interacción.
-
-
-## Diseño de web completo:
-![image](https://github.com/user-attachments/assets/22d6b157-b0e8-4719-9817-d4badaf4188e)
 
 
 ## 🛠️ Tecnologías Utilizadas
